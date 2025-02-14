@@ -103,3 +103,4 @@ jobs:
           docker stop saleor-api saleor-dashboard
           docker rm saleor-api saleor-dashboard
           docker network rm saleor-network
+          
